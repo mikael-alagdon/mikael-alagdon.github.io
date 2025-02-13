@@ -18,7 +18,7 @@ h1 {
     text-align: center;
     margin-top: 2rem;
     margin-bottom: 1rem;
-    color: white;
+    color: black;
     font-family: "JetBrains Mono", sans-serif;
     padding: 1rem 2rem;
 }
@@ -54,7 +54,7 @@ button {
 }
 
 body {
-    background-color: deeppink;
+    background-color: white;
     display: flex;
     flex-direction: column;
     justify-content: center;
